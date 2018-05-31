@@ -36,7 +36,7 @@ module.exports = runner.command(
       !cliArgs.protractor;
 
     if (noOptions) {
-      cliArgs.mocha = true;
+      cliArgs.jest = true;
       cliArgs.protractor = true;
     }
 
