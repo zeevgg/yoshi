@@ -1,0 +1,18 @@
+{
+  "name": "tsconfig-preset-yoshi",
+  "version": "1.0.0",
+  "description": "tsconfig preset for yoshi",
+  "keywords": [
+    "tsconfig",
+    "preset",
+    "yoshi"
+  ],
+  "author": "Yair Haimovitch <yairh@wix.com>",
+  "license": "ISC",
+  "scripts": {
+    "customPublish": "node ../../scripts/customPublish.js"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}

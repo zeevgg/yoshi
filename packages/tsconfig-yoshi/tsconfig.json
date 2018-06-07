@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "esnext",
+    "lib": ["dom", "es6"],
+    "allowJs": false,
+    "checkJs": false,
+    "jsx": "react",
+    "sourceMap": true,
+    "rootDir": "src",
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "pretty": true
+  }
+}

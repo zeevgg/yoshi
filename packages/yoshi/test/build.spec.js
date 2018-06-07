@@ -456,7 +456,7 @@ describe('Aggregator: Build', () => {
     });
   });
 
-  describe.skip('simple tree shaking scenario in typescript', () => {
+  describe('simple tree shaking scenario in typescript', () => {
     let resp;
 
     before(() => {
