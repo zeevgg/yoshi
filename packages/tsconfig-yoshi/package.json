@@ -1,10 +1,9 @@
 {
-  "name": "tsconfig-preset-yoshi",
+  "name": "tsconfig-yoshi",
   "version": "1.0.0",
-  "description": "tsconfig preset for yoshi",
+  "description": "tsconfig config for yoshi",
   "keywords": [
     "tsconfig",
-    "preset",
     "yoshi"
   ],
   "author": "Yair Haimovitch <yairh@wix.com>",
