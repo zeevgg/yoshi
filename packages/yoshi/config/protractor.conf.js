@@ -87,7 +87,7 @@ function normaliseSpecs(config) {
 
   return Object.assign({}, config, {
     specs: specs.map(spec => path.resolve(spec)),
-    exclude: exclude.map(spec => path.resolve(spec))
+    exclude: exclude.map(spec => path.resolve(spec)),
   });
 }
 
